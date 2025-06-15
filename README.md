@@ -116,3 +116,6 @@ With a user-friendly dashboard, the platform offers real-time insights into acti
 - Prepare project presentation & demo video
 
 
+# Deployment link
+
+Backend:- https://subwave.onrender.com
