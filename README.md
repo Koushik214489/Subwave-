@@ -119,3 +119,4 @@ With a user-friendly dashboard, the platform offers real-time insights into acti
 # Deployment link
 
 Backend:- https://subwave.onrender.com
+Frontend:- https://subwaves.netlify.app/
